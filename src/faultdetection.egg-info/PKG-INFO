@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: faultdetection
+Version: 0.0.1
+Summary: Fault detection and monitoring system
+Author: Shiva
+License: MIT
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown

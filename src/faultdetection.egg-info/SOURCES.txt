@@ -1,0 +1,7 @@
+pyproject.toml
+src/faultdetection/__init__.py
+src/faultdetection/detector.py
+src/faultdetection.egg-info/PKG-INFO
+src/faultdetection.egg-info/SOURCES.txt
+src/faultdetection.egg-info/dependency_links.txt
+src/faultdetection.egg-info/top_level.txt
