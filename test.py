@@ -1,10 +1,10 @@
 import sys
 import os
 
-# Add src folder to Python path
-sys.path.append(os.path.join(os.path.dirname(__file__), "src"))
+# Add project root to Python path so `src` can be imported as a package.
+sys.path.append(os.path.dirname(__file__))
 
-from faultdetection import Detector
+from src import Detector
 
 detector = Detector()
 print(detector.detect("some data"))
